@@ -1,0 +1,21 @@
+#span-red-color {
+    color: red;
+    font-size: 32px;
+}
+
+#google-logo {
+    border: 2px solid goldenrod;
+}
+
+.fs-1 {
+    font-weight: bold;
+    font-size: 8px;
+    text-decoration: line-through;
+}
+
+#fs-2 {
+    text-shadow: 27px 19px 5px #253BCE;
+    width: 200px;
+    height: 100px;
+    margin: 0 20px;
+}
